@@ -12,8 +12,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcutil"
+	"github.com/rhaps107/btcd/chaincfg"
+	"github.com/rhaps107/btcutil"
 	"golang.org/x/crypto/ripemd160"
 )
 
